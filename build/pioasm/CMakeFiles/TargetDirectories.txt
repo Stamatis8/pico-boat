@@ -1,0 +1,3 @@
+/home/stamatisstamatelopoulos1/repos/pico-boat/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/stamatisstamatelopoulos1/repos/pico-boat/build/pioasm/CMakeFiles/edit_cache.dir
+/home/stamatisstamatelopoulos1/repos/pico-boat/build/pioasm/CMakeFiles/pioasm.dir
