@@ -988,12 +988,14 @@ CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-p
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_bank0.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h
+CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pwm.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/iobank0.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/padsbank0.h
+CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pwm.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h
@@ -1001,12 +1003,14 @@ CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-p
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h
+CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/pwm.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
 CMakeFiles/script.dir/script.cpp.obj: /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
 CMakeFiles/script.dir/script.cpp.obj: ../script.cpp
+CMakeFiles/script.dir/script.cpp.obj: ../src/util.hpp
 CMakeFiles/script.dir/script.cpp.obj: generated/pico_base/pico/config_autogen.h
 CMakeFiles/script.dir/script.cpp.obj: generated/pico_base/pico/version.h
 

@@ -16,7 +16,9 @@ add_executable(${PROJECT_NAME}
 
 # link pico-related libraries (available from pico_sdk_init() ?)
 target_link_libraries(${PROJECT_NAME}
-    pico_stdlib
+    pico_stdlib 
+    hardware_gpio 
+    hardware_pwm
 )
 
 # setup 'make' so that uf2 files are also created

@@ -989,12 +989,14 @@ CMakeFiles/script.dir/script.cpp.obj
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/io_bank0.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/m0plus.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h
+ /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pwm.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/uart.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/interp.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/iobank0.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/padsbank0.h
+ /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pwm.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/timer.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/uart.h
@@ -1002,11 +1004,13 @@ CMakeFiles/script.dir/script.cpp.obj
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_base/include/hardware/address_mapped.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_gpio/include/hardware/gpio.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/irq.h
+ /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/pwm.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_uart/include/hardware/uart.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/platform.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
  /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/stdio_uart.h
  /home/stamatisstamatelopoulos1/repos/pico-boat/script.cpp
+ /home/stamatisstamatelopoulos1/repos/pico-boat/src/util.hpp
  generated/pico_base/pico/config_autogen.h
  generated/pico_base/pico/version.h

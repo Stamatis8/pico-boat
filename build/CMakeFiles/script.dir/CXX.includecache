@@ -84,6 +84,8 @@ hardware/platform_defs.h
 
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pads_bank0.h
 
+/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/pwm.h
+
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/sio.h
 
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/timer.h
@@ -107,6 +109,12 @@ hardware/address_mapped.h
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/hardware/address_mapped.h
 hardware/regs/pads_bank0.h
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/hardware/regs/pads_bank0.h
+
+/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pwm.h
+hardware/address_mapped.h
+/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/hardware/address_mapped.h
+hardware/regs/pwm.h
+/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/hardware/regs/pwm.h
 
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/sio.h
 hardware/address_mapped.h
@@ -158,6 +166,14 @@ hardware/regs/intctrl.h
 hardware/regs/m0plus.h
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_irq/include/hardware/hardware/regs/m0plus.h
 
+/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/pwm.h
+pico.h
+/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/pico.h
+hardware/structs/pwm.h
+/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/hardware/structs/pwm.h
+hardware/regs/dreq.h
+/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include/hardware/hardware/regs/dreq.h
+
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/timer.h
 pico.h
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_timer/include/hardware/pico.h
@@ -184,10 +200,6 @@ sys/cdefs.h
 pico/types.h
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_platform/include/pico/pico/types.h
 
-/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp
-cstdlib
--
-
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/stdio.h
 pico.h
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio/include/pico/pico.h
@@ -199,8 +211,20 @@ hardware/uart.h
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_stdio_uart/include/pico/hardware/uart.h
 
 /home/stamatisstamatelopoulos1/repos/pico-boat/script.cpp
+vector
+-
 pico/stdlib.h
 /home/stamatisstamatelopoulos1/repos/pico-boat/pico/stdlib.h
+src/util.hpp
+/home/stamatisstamatelopoulos1/repos/pico-boat/src/util.hpp
+
+/home/stamatisstamatelopoulos1/repos/pico-boat/src/util.hpp
+pico/stdlib.h
+/home/stamatisstamatelopoulos1/repos/pico-boat/src/pico/stdlib.h
+hardware/gpio.h
+/home/stamatisstamatelopoulos1/repos/pico-boat/src/hardware/gpio.h
+hardware/pwm.h
+/home/stamatisstamatelopoulos1/repos/pico-boat/src/hardware/pwm.h
 
 generated/pico_base/pico/config_autogen.h
 /home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/boards/include/boards/pico.h

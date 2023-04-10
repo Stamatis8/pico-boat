@@ -51,7 +51,7 @@ set(CMAKE_TARGET_DEFINITIONS_ASM
   "LIB_PICO_UTIL=1"
   "PICO_BOARD=\"pico\""
   "PICO_BUILD=1"
-  "PICO_CMAKE_BUILD_TYPE=\"Release\""
+  "PICO_CMAKE_BUILD_TYPE=\"Debug\""
   "PICO_COPY_TO_RAM=0"
   "PICO_CXX_ENABLE_EXCEPTIONS=0"
   "PICO_NO_FLASH=0"
@@ -101,6 +101,7 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/include"
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/boot_stage2/include"
+  "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include"
   )
 set(CMAKE_DEPENDS_CHECK_C
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c" "/home/stamatisstamatelopoulos1/repos/pico-boat/build/CMakeFiles/script.dir/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/common/pico_sync/critical_section.c.obj"
@@ -170,7 +171,7 @@ set(CMAKE_TARGET_DEFINITIONS_C
   "LIB_PICO_UTIL=1"
   "PICO_BOARD=\"pico\""
   "PICO_BUILD=1"
-  "PICO_CMAKE_BUILD_TYPE=\"Release\""
+  "PICO_CMAKE_BUILD_TYPE=\"Debug\""
   "PICO_COPY_TO_RAM=0"
   "PICO_CXX_ENABLE_EXCEPTIONS=0"
   "PICO_NO_FLASH=0"
@@ -220,6 +221,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/include"
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/boot_stage2/include"
+  "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp" "/home/stamatisstamatelopoulos1/repos/pico-boat/build/CMakeFiles/script.dir/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_standard_link/new_delete.cpp.obj"
@@ -258,7 +260,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
   "LIB_PICO_UTIL=1"
   "PICO_BOARD=\"pico\""
   "PICO_BUILD=1"
-  "PICO_CMAKE_BUILD_TYPE=\"Release\""
+  "PICO_CMAKE_BUILD_TYPE=\"Debug\""
   "PICO_COPY_TO_RAM=0"
   "PICO_CXX_ENABLE_EXCEPTIONS=0"
   "PICO_NO_FLASH=0"
@@ -308,6 +310,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_int64_ops/include"
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/pico_mem_ops/include"
   "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/boot_stage2/include"
+  "/home/stamatisstamatelopoulos1/raspberry-pi-pico/pico/pico-sdk/src/rp2_common/hardware_pwm/include"
   )
 
 # Targets to which this target links.
